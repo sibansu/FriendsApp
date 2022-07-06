@@ -1,0 +1,3 @@
+# Want to chat with your friends?
+
+Welcome to **FriendsApp**. Chat with your friends anywhere and anytime. Join a room of friends and chill with them... 
